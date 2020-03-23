@@ -11,7 +11,8 @@
 #include <eigen3/Eigen/Core>
 #include <eigen3/Eigen/Dense>
 
-int main(int argc, const char * argv[]) {
+int main(int argc, const char * argv[])
+{
     // Basic Example of cpp
     std::cout << "Example of cpp\n";
     float a = 1.0f, b = 2.0f;
